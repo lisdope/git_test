@@ -7,7 +7,7 @@
 <<<<<<< HEAD
 	Hello! Java Server Pages.
 	
-	finally commit 2
+	finally commit 3
 	
 
 </body>
