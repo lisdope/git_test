@@ -7,13 +7,6 @@
 <<<<<<< HEAD
 	Hello! Java Server Pages.
 	
-	second commit
-	
-	third commit
-=======
-	Hello! Java Server Pages
-	testest
-	sssss
->>>>>>> refs/remotes/origin/master
+	finally commit
 </body>
 </html>
