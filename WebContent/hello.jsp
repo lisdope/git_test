@@ -4,8 +4,9 @@
 </head>
 <body>
 	<h1>Hello JSP!!</h1>
-	Hello! Java Server Pages
-	testest
-	sssss
+<<<<<<< HEAD
+	Hello! Java Server Pages.
+	
+	finally commit
 </body>
 </html>
