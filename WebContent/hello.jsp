@@ -7,8 +7,8 @@
 <<<<<<< HEAD
 	Hello! Java Server Pages.
 	
-	finally commit
+	finally commit 2
 	
-	수정해보았습니다.---oliviaChoivb
+
 </body>
 </html>
