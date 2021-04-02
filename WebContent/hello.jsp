@@ -12,7 +12,7 @@
 	
 <<<<<<< HEAD
 	finally commit 3
-	BSJ
+	여기 고쳤음
 
 =======
 	sads
