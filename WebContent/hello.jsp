@@ -3,10 +3,7 @@
 <title>Welcome</title>
 </head>
 <body>
-	<h1>Hello JSP!!</h1>
-a
->>>>>>> refs/remotes/origin/master
-
-jk
+	<h1>Gazua!!!</h1>
+영 차 영 차 영 차
 </body>
 </html>
